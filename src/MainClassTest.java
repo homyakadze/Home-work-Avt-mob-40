@@ -11,3 +11,4 @@ public class MainClassTest extends MainClass
         Assert.assertEquals("Method getLocalNumber return not 14",expected, actual);
     }
 }
+

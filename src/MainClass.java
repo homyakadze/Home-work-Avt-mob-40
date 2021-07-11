@@ -2,11 +2,13 @@ import org.junit.Test;
 
 public class MainClass
 {
-    public int getLocalNumber()
+    private int class_number = 20;
+
+    public int getClassNumber()
     {
-        return 14;
+        return class_number;
     }
 
 }
 
-//Функция возврашает число 14
+//Метод возврашает значение приватного поля класса class_number

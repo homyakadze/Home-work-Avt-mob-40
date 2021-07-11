@@ -10,3 +10,4 @@ public class MainClassTest extends MainClass
     }
 }
 
+// Тест проверяет, что функция getLocalNumber возвращает 14

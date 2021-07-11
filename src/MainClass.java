@@ -9,3 +9,4 @@ public class MainClass
 
 }
 
+//Функция возврашает число 14
